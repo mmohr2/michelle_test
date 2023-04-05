@@ -1,4 +1,4 @@
-# michelle_test
+# MichelleSuperTest
 test repo for git and github lesson 
 
 ## Purpose 
