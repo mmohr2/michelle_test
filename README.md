@@ -1,5 +1,7 @@
 # Wroking with git and GitHub
-Description: this is test repo for git and github lesson during NCEAS coreR workshop. 
+
+testing round two caption change 
+
 
 ## Purpose 
 
