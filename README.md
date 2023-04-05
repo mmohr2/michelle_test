@@ -13,4 +13,11 @@ Michelle Mohr is a forest ecology student at California State University Domingu
 ## Collaborator
 Camila Vargas Poulsen a Data Science Educator at NCEAS.
 
-Awesome!
+## How to create a Git Repository 
+In the top right corner, click the + sign and go down to "New Repository"
+Create Repository Name and description
+Decide if it is public or private 
+Initialize the repoistory with the "ReadMe" File 
+Add a .gitignore "R" file
+Choose a license (suggested "Apache 2.0") 
+Click create repository
