@@ -1,4 +1,4 @@
-# MichelleSuperTest
+# Wroking with git and GitHub
 test repo for git and github lesson 
 
 ## Purpose 
