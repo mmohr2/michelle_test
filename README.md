@@ -9,3 +9,6 @@ test repo for git and github lesson
 ## Creator
 
 Michelle Mohr is a forest ecology student at California State University Dominguez Hills. If you have questions about this project please contact Michelle via [email](mailto:mmohr2@toromail.csudh.edu).
+
+## Collaborator
+Camila Vargas Poulsen a Data Science Educator at NCEAS.
