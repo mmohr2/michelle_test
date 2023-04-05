@@ -1,5 +1,5 @@
 # Wroking with git and GitHub
-test repo for git and github lesson 
+Description: this is test repo for git and github lesson during NCEAS coreR workshop. 
 
 ## Purpose 
 
